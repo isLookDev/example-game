@@ -1,0 +1,2 @@
+# example-game
+this is just for example and learn things about GitHub..... i am new here.
